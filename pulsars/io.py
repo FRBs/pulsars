@@ -2,4 +2,5 @@
 """
 from __future__ import print_function, absolute_import, division, unicode_literals
 
-def load_parallax()
+def load_parallax():
+    pass
