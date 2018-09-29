@@ -22,12 +22,12 @@ setup_keywords = dict()
 #
 # THESE SETTINGS NEED TO BE CHANGED FOR EVERY PRODUCT.
 #
-setup_keywords['name'] = 'DM'
-setup_keywords['description'] = 'Python code for DM calculations'
+setup_keywords['name'] = 'pulsars'
+setup_keywords['description'] = 'Python code and data for Pulsars, at least loosely related to FRBs'
 setup_keywords['author'] = 'FRB Community'
 setup_keywords['author_email'] = 'xavier@ucolick.org'
 setup_keywords['license'] = 'BSD'
-setup_keywords['url'] = 'https://github.com/FRBs/DM'
+setup_keywords['url'] = 'https://github.com/FRBs/pulsars'
 #
 # END OF SETTINGS THAT NEED TO BE CHANGED.
 #
@@ -71,12 +71,12 @@ setup_keywords['tests_require']=['pytest']
 data_files = []
 
 # walk through the data directory, adding all files
-data_generator = os.walk('DM/data')
+data_generator = os.walk('pulsars/data')
 for path, directories, files in data_generator:
     for f in files:
         data_path = '/'.join(path.split('/')[1:])
         data_files.append(data_path + '/' + f)
-setup_keywords['package_data'] = {'DM': data_files,
+setup_keywords['package_data'] = {'pulsars': data_files,
                                   '': ['*.rst', '*.txt', '*.yaml']}
 setup_keywords['include_package_data'] = True
 

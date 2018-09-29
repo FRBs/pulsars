@@ -1,0 +1,989 @@
+# Published Pulsar Parallaxes
+# Shami Chatterjee
+# Last updated 20160226
+#
+# ========== List begins ==========
+!!psr
+JName = J0030+0451
+BName =
+PI = 3.3
+eplus = +0.9
+eminus = -0.9
+Refname = Lommen et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006ApJ...642.1012L
+Method  = Timing
+# ==========
+!!psr
+JName = J0034-0721
+BName = B0031-07
+PI = 0.93
+eplus = +0.08
+eminus = -0.07
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0108-1431
+BName =
+PI = 4.2
+eplus = +1.4
+eminus = -1.4
+Refname = Deller et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...701.1243D
+Method  = VLBI (LBA)
+# ==========
+!!psr
+JName = J0139+5814
+BName = B0136+57
+PI = 0.37
+eplus = +0.04
+eminus = -0.04
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0218+4232
+BName =
+PI = 0.16
+eplus = +0.09
+eminus = -0.09
+Refname = Du et al. (2014)
+RefURL  = http://adsabs.harvard.edu/abs/2014ApJ...782L..38D
+Method  = VLBI (EVN)
+# ==========
+!!psr
+JName = J0332+5434
+BName = B0329+54
+PI = 0.91
+eplus = +0.11
+eminus = -0.11
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+PI = 1.3
+eplus = +1.7
+eminus = -1.7
+Refname = Salter et al. (1979)
+RefURL  = http://adsabs.harvard.edu/abs/1979Natur.280..477S
+Method  = VLBI (ad hoc)
+# ==========
+!!psr
+JName = J0358+5413
+BName = B0355+54
+PI = 0.91
+eplus = +0.16
+eminus = -0.16
+Refname = Chatterjee et al. (2004)
+RefURL  = http://adsabs.harvard.edu/abs/2004ApJ...604..339C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0437-4715
+BName =
+PI = 6.396
+eplus = +0.054
+eminus = -0.054
+Refname = Deller et al. (2008)
+RefURL  = http://adsabs.harvard.edu/abs/2008ApJ...685L..67D
+Method  = VLBI (LBA)
+PI = 6.65
+eplus = +0.51
+eminus = -0.51
+Refname = Verbiest et al. (2008)
+RefURL  = http://adsabs.harvard.edu/abs/2008ApJ...679..675V
+Method  = Timing
+PI = 6.3
+eplus = +0.1
+eminus = -0.1
+Refname = Hotan et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006MNRAS.369.1502H
+Method  = Timing
+PI = 7.1
+eplus = +0.14
+eminus = -0.14
+Refname = van Straten et al. (2001)
+RefURL  = http://adsabs.harvard.edu/abs/2001Natur.412..158V
+Method  = Timing
+PI = 5.6
+eplus = +0.8
+eminus = -0.8
+Refname = Sandhu et al. (1997)
+RefURL  = http://adsabs.harvard.edu/abs/1997ApJ...478L..95S
+Method  = Timing
+# ==========
+!!psr
+JName = J0452-1759
+BName = B0450-18
+PI = 0.65
+eplus = +1.4
+eminus = -0.6
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0454+5543
+BName = B0450+55
+PI = 0.84
+eplus = +0.04
+eminus = -0.05
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0538+2817
+BName =
+PI = 0.72
+eplus = +0.12
+eminus = -0.09
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+PI = 0.68
+eplus = +0.15
+eminus = -0.15
+Refname = Ng et al. (2007)
+RefURL  = http://adsabs.harvard.edu/abs/2007ApJ...654..487N
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0613-0200
+BName =
+PI = 0.8
+eplus = +0.35
+eminus = -0.35
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 2.1
+eplus = +0.6
+eminus = -0.6
+Refname = Hotan et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006MNRAS.369.1502H
+Method  = Timing
+# ==========
+!!psr
+JName = J0630-2834
+BName = B0628-28
+PI = 3.0
+eplus = +0.4
+eminus = -0.4
+Refname = Deller et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...701.1243D
+Method  = VLBI (LBA)
+# ==========
+!!psr
+JName = J0633+1746
+BName = Geminga
+PI = 6.4
+eplus = +1.8
+eminus = -1.8
+Refname = Caraveo et al. (1996)
+RefURL  = http://adsabs.harvard.edu/abs/1996ApJ...461L..91C
+Method  = Optical (HST WFPC2)
+PI = 4.0
+eplus = +1.3
+eminus = -1.3
+Refname = Faherty et al. (2007)
+RefURL  = http://adsabs.harvard.edu/abs/2007Ap%26SS.308..225F
+Method  = Optical (HST ACS)
+# ==========
+!!psr
+JName = J0636+5129
+BName =
+PI = 4.9
+eplus = +0.6
+eminus = -0.6
+Refname = Stovall et al. (2014)
+RefURL  = http://adsabs.harvard.edu/abs/2014ApJ...791...67S
+Method  = Timing
+# ==========
+!!psr
+JName = J0645+5158
+BName =
+PI = 1.4
+eplus = +0.4
+eminus = -0.4
+Refname = Stovall et al. (2014)
+RefURL  = http://adsabs.harvard.edu/abs/2014ApJ...791...67S
+Method  = Timing
+# ==========
+!!psr
+JName = J0659+1414
+BName = B0656+14
+PI = 3.47
+eplus = +0.36
+eminus = -0.36
+Refname = Brisken et al. (2003)
+RefURL  = http://adsabs.harvard.edu/abs/2003ApJ...593L..89B
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0720-3125
+BName =
+PI = 2.77
+eplus = +0.89
+eminus = -0.89
+Refname = Kaplan et al. (2007)
+RefURL  = http://adsabs.harvard.edu/abs/2007ApJ...660.1428K
+Method  = Optical (HST)
+# ==========
+!!psr
+JName = J0737-3039A/B
+BName =
+PI = 0.87
+eplus = +0.14
+eminus = -0.14
+Refname = Deller et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009Sci...323.1327D
+Method  = VLBI (LBA)
+PI = 3.0
+eplus = +2.0
+eminus = -2.0
+Refname = Kramer et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006Sci...314...97K
+Method  = Timing
+# ==========
+!!psr
+JName = J0751+1807
+BName =
+PI = 1.6
+eplus = +0.8
+eminus = -0.8
+Refname = Nice et al. (2005)
+RefURL  = http://adsabs.harvard.edu/abs/2005ApJ...634.1242N
+Method  = Timing
+PI = 0.66
+eplus = +0.15
+eminus = -0.15
+Refname = Guillemot et al. (2016)
+RefURL  = http://dx.doi.org/10.1051/0004-6361/201527847
+Method  = Timing
+# ==========
+!!psr
+JName = J0814+7429
+BName = B0809+74
+PI = 2.31
+eplus = +0.04
+eminus = -0.04
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+PI = 1.8
+eplus = +7.1
+eminus = -7.1
+Refname = Salter et al. (1979)
+RefURL  = http://adsabs.harvard.edu/abs/1979Natur.280..477S
+Method  = VLBI (ad hoc)
+# ==========
+!!psr
+JName = J0820-1350
+BName = B0818-13
+PI = 0.51
+eplus = +0.03
+eminus = -0.04
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0826+2637
+BName = B0823+26
+PI = 2.8
+eplus = +0.6
+eminus = -0.6
+Refname = Gwinn et al. (1986)
+RefURL  = http://adsabs.harvard.edu/abs/1986AJ.....91..338G
+Method  = VLBI (ad hoc)
+# ==========
+!!psr
+JName = J0835-4510
+BName = B0833-45
+PI = 3.5
+eplus = +0.2
+eminus = -0.2
+Refname = Dodson et al. (2003)
+RefURL  = http://adsabs.harvard.edu/abs/2003ApJ...596.1137D
+Method  = VLBI (LBA)
+PI = 3.4
+eplus = +0.7
+eminus = -0.7
+Refname = Caraveo et al. (2001)
+RefURL  = http://adsabs.harvard.edu/abs/2001ApJ...561..930C
+Method  = Optical(HST)
+# ==========
+!!psr
+JName = J0922+0638
+BName = B0919+06
+PI = 0.83
+eplus = +0.13
+eminus = -0.13
+Refname = Chatterjee et al. (2001)
+RefURL  = http://adsabs.harvard.edu/abs/2001ApJ...550..287C
+Method  = VLBI (VLBA)
+PI = 0.31
+eplus = +0.14
+eminus = -0.14
+Refname = Fomalont et al. (1999)
+RefURL  = http://adsabs.harvard.edu/abs/1999AJ....117.3025F
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J0953+0755
+BName = B0950+08
+PI = 3.82
+eplus = +0.07
+eminus = -0.07
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+PI = 3.6
+eplus = +0.3
+eminus = -0.3
+Refname = Brisken et al. (2000)
+RefURL  = http://adsabs.harvard.edu/abs/2000ApJ...541..959B
+Method  = VLBI (VLBA)
+PI = 7.9
+eplus = +0.8
+eminus = -0.8
+Refname = Gwinn et al. (1986)
+RefURL  = http://adsabs.harvard.edu/abs/1986AJ.....91..338G
+Method  = VLBI (ad hoc)
+PI = 8.3
+eplus = +8.8
+eminus = -8.8
+Refname = Salter et al. (1979)
+RefURL  = http://adsabs.harvard.edu/abs/1979Natur.280..477S
+Method  = VLBI (ad hoc)
+# ==========
+!!psr
+JName = J1012+5307
+BName =
+PI = 1.22
+eplus = +0.26
+eminus = -0.26
+Refname = Lazaridis et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..805L
+Method  = Timing
+# ==========
+!!psr
+JName = J1017-7156
+BName =
+PI = 3.9
+eplus = +1.2
+eminus = -1.2
+Refname = Ng et al. (2014)
+RefURL  = http://adsabs.harvard.edu/doi/10.1093/mnras/stu067
+Method  = Timing
+# ==========
+!!psr
+JName = J1022+1001
+BName =
+PI = 1.8
+eplus = +0.3
+eminus = -0.3
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 2.5
+eplus = +0.4
+eminus = -0.4
+Refname = Hotan et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006MNRAS.369.1502H
+Method  = Timing
+PI = 3.3
+eplus = +0.8
+eminus = -0.8
+Refname = Hotan et al. (2004)
+RefURL  = http://adsabs.harvard.edu/abs/2004MNRAS.355..941H
+Method  = Timing
+# ==========
+!!psr
+JName = J1023+0038
+BName =
+PI = 0.731
+eplus = +0.022
+eminus = -0.022
+Refname = Deller et al. (2012)
+RefURL  = http://adsabs.harvard.edu/abs/2012ApJ...756L..25D
+Method  = VLBI (LBA)
+# ==========
+!!psr
+JName = J1024-0719
+BName =
+PI = 1.9
+eplus = +0.8
+eminus = -0.8
+Refname = Hotan et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006MNRAS.369.1502H
+Method  = Timing
+PI = 0.89
+eplus = +0.14
+eminus = -0.14
+Refname = Guillemot et al. (2016)
+RefURL  = http://dx.doi.org/10.1051/0004-6361/201527847
+Method  = Timing
+# ==========
+!!psr
+JName = J1045-4509
+BName =
+PI = 3.3
+eplus = +1.9
+eminus = -1.9
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+# ==========
+!!psr
+JName = J1136+1551
+BName = B1133+16
+PI = 2.8
+eplus = +0.16
+eminus = -0.16
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J1239+2453
+BName = B1237+25
+PI = 1.16
+eplus = +0.08
+eminus = -0.08
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+PI = -6.2
+eplus = +5.2
+eminus = -5.2
+Refname = Salter et al. (1979)
+RefURL  = http://adsabs.harvard.edu/abs/1979Natur.280..477S
+Method  = VLBI (ad hoc)
+# ==========
+!!psr
+JName = J1300+1240
+BName = B1257+12
+PI = 1.3
+eplus = +0.4
+eminus = -0.4
+Refname = Wolszczan et al. (2000)
+RefURL  = http://adsabs.harvard.edu/abs/2000ApJ...540L..41W
+Method  = Timing
+# ==========
+!!psr
+JName = J1455-3330
+BName = 
+PI = 0.99
+eplus = +0.22
+eminus = -0.22
+Refname = Guillemot et al. (2016)
+RefURL  = http://dx.doi.org/10.1051/0004-6361/201527847
+Method  = Timing
+# ==========
+!!psr
+JName = J1456-6843
+BName = B1451-68
+PI = 2.2
+eplus = +0.3
+eminus = -0.3
+Refname = Bailes et al. (1990)
+RefURL  = http://adsabs.harvard.edu/abs/1990Natur.343..240B
+Method  = VLBI
+# ==========
+!!psr
+JName = J1509+5531
+BName = B1508+55
+PI = 0.47
+eplus = +0.03
+eminus = -0.03
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+PI = 0.415
+eplus = +0.037
+eminus = -0.037
+Refname = Chatterjee et al. (2005)
+RefURL  = http://adsabs.harvard.edu/abs/2005ApJ...630L..61C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J1537+1155
+BName = B1534+12
+PI = 0.96
+eplus = +0.01
+eminus = -0.01
+Refname = Fonseca et al. (2014)
+RefURL  = http://adsabs.harvard.edu/abs/2014arXiv1402.4836F
+Method  = Pbdot, GR, Gal potn.
+PI = 0.98
+eplus = +0.05
+eminus = -0.05
+Refname = Stairs et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...581..501S
+Method  = Timing
+PI = 0.913
+eplus = +0.02
+eminus = -0.14
+Refname = Stairs et al. (1998)
+RefURL  = http://adsabs.harvard.edu/abs/1998ApJ...505..352S
+Method  = Timing
+# ==========
+!!psr
+JName = J1543+0929
+BName = B1541+09
+PI = 0.13
+eplus = +0.02
+eminus = -0.02
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J1559-4438
+BName = B1556-44
+PI = 0.384
+eplus = +0.081
+eminus = -0.081
+Refname = Deller et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...690..198D
+Method  = VLBI (LBA)
+# ==========
+!!psr
+JName = J1600-3053
+BName =
+PI = 0.2
+eplus = +0.15
+eminus = -0.15
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+# ==========
+!!psr
+JName = J1614-2230
+BName =
+PI = 1.54
+eplus = +0.10
+eminus = -0.10
+Refname = Lassus (2013) in Fermi 2PC
+RefURL  = http://adsabs.harvard.edu/abs/2013ApJS..208...17A
+Method  = Timing
+PI = 1.30
+eplus = +0.09
+eminus = -0.09
+Refname = Guillemot et al. (2016)
+RefURL  = http://dx.doi.org/10.1051/0004-6361/201527847
+Method  = Timing
+# ==========
+!!psr
+JName = J1643-1224
+BName =
+PI = 2.2
+eplus = +0.4
+eminus = -0.4
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+# ==========
+!!psr
+JName = J1713+0747
+BName =
+PI = 0.94
+eplus = +0.05
+eminus = -0.05
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 0.95
+eplus = +0.06
+eminus = -0.05
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+PI = 1.1
+eplus = +0.05
+eminus = -0.05
+Refname = Hotan et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006MNRAS.369.1502H
+Method  = Timing
+PI = 0.89
+eplus = +0.08
+eminus = -0.08
+Refname = Splaver et al. (2005)
+RefURL  = http://adsabs.harvard.edu/abs/2005ApJ...620..405S
+Method  = Timing
+PI = 0.9
+eplus = +0.3
+eminus = -0.3
+Refname = Camilo et al. (1994)
+RefURL  = http://adsabs.harvard.edu/abs/1994ApJ...437L..39C
+Method  = Timing
+# ==========
+!!psr
+JName = J1730-2304
+BName = 
+PI = 1.19
+eplus = +0.27
+eminus = -0.27
+Refname = Guillemot et al. (2016)
+RefURL  = http://dx.doi.org/10.1051/0004-6361/201527847
+Method  = Timing
+# ==========
+!!psr
+JName = J1738+0333
+BName =
+PI = 0.68
+eplus = +0.05
+eminus = -0.05
+Refname = Freire et al. (2012)
+RefURL  = http://adsabs.harvard.edu/abs/2012MNRAS.423.3328F
+Method  = Timing
+# ==========
+!!psr
+JName = J1744-1134
+BName =
+PI = 2.4
+eplus = +0.1
+eminus = -0.1
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 2.1
+eplus = +0.2
+eminus = -0.2
+Refname = Hotan et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006MNRAS.369.1502H
+Method  = Timing
+PI = 2.8
+eplus = +0.3
+eminus = -0.3
+Refname = Toscano et al. (1999)
+RefURL  = http://adsabs.harvard.edu/abs/1999ApJ...523L.171T
+Method  = Timing
+# ==========
+!!psr
+JName = J1856-3754
+BName =
+PI = 6.2
+eplus = +0.6
+eminus = -0.6
+Refname = van Kerkwijk &amp; Kaplan (2007)
+RefURL  = http://adsabs.harvard.edu/abs/2007Ap%26SS.308..191V
+Method  = Optical (HST)
+PI = 8.5
+eplus = +0.9
+eminus = -0.9
+Refname = Walter &amp; Lattimer (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...576L.145W
+Method  = Optical (HST)
+PI = 7.0
+eplus = +2.0
+eminus = -2.0
+Refname = Kaplan et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..447K
+Method  = Optical (HST)
+PI = 16.5
+eplus = +2.3
+eminus = -2.3
+Refname = Walter (2001)
+RefURL  = http://adsabs.harvard.edu/abs/2001ApJ...549..433W
+Method  = Optical (HST)
+# ==========
+!!psr
+JName = J1853+1303
+BName =
+PI = 1.0
+eplus = +0.6
+eminus = -0.6
+Refname = Gonzalez et al. (2011)
+RefURL  = http://adsabs.harvard.edu/abs/2011ApJ...743..102G
+Method  = Timing
+# ==========
+!!psr
+JName = J1857+0943
+BName = B1855+09
+PI = 1.1
+eplus = +0.2
+eminus = -0.2
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 1.1
+eplus = +0.3
+eminus = -0.3
+Refname = Kaspi et al. (1994)
+RefURL  = http://adsabs.harvard.edu/abs/1994ApJ...428..713K
+Method  = Timing
+PI = 1.2
+eplus = +0.5
+eminus = -0.5
+Refname = Ryba &amp; Taylor (1991)
+RefURL  = http://adsabs.harvard.edu/abs/1991ApJ...371..739R
+Method  = Timing
+# ==========
+!!psr
+JName = J1900-2600
+BName = B1857-26
+PI = 0.5
+eplus = +0.6
+eminus = -0.6
+Refname = Fomalont et al. (1999)
+RefURL  = http://adsabs.harvard.edu/abs/1999AJ....117.3025F
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J1909-3744
+BName =
+PI = 0.79
+eplus = +0.02
+eminus = -0.02
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 0.88
+eplus = +0.02
+eminus = -0.02
+Refname = Hotan et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006MNRAS.369.1502H
+Method  = Timing
+PI = 0.88
+eplus = +0.03
+eminus = -0.03
+Refname = Jacoby et al. (2005)
+RefURL  = http://adsabs.harvard.edu/abs/2005ApJ...629L.113J
+Method  = Timing
+# ==========
+!!psr
+JName = J1932+1059
+BName = B1929+10
+PI = 2.77
+eplus = +0.07
+eminus = -0.07
+Refname = Chatterjee et al. (2004)
+RefURL  = http://adsabs.harvard.edu/abs/2004ApJ...604..339C
+Method  = VLBI (VLBA)
+PI = 3.02
+eplus = +0.09
+eminus = -0.09
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+PI = 5.0
+eplus = +1.5
+eminus = -1.5
+Refname = Camilo (1995)
+RefURL  = http://adsabs.harvard.edu/abs/1995PhDT.........5C
+Method  = Timing
+# ==========
+!!psr
+JName = J1935+1616
+BName = B1933+16
+PI = 0.22
+eplus = +0.08
+eminus = -0.12
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J1939+2134
+BName = B1937+21
+PI = 0.13
+eplus = +0.065
+eminus = -0.065
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 0.12
+eplus = +0.08
+eminus = -0.08
+Refname = Kaspi et al. (1994)
+RefURL  = http://adsabs.harvard.edu/abs/1994ApJ...428..713K
+Method  = Timing
+# ==========
+!!psr
+JName = J2017+0603
+BName = 
+PI = 1.2
+eplus = +0.5
+eminus = -0.5
+Refname = Guillemot et al. (2016)
+RefURL  = http://dx.doi.org/10.1051/0004-6361/201527847
+Method  = Timing
+# ==========
+!!psr
+JName = J2018+2839
+BName = B2016+28
+PI = 1.03
+eplus = +0.1
+eminus = -0.1
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+PI = 0.9
+eplus = +3.6
+eminus = -3.6
+Refname = Salter et al. (1979)
+RefURL  = http://adsabs.harvard.edu/abs/1979Natur.280..477S
+Method  = VLBI
+# ==========
+!!psr
+JName = J2022+2854
+BName = B2020+28
+PI = 0.37
+eplus = +0.12
+eminus = -0.12
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+PI = -1.3
+eplus = +4.6
+eminus = -4.6
+Refname = Salter et al. (1979)
+RefURL  = http://adsabs.harvard.edu/abs/1979Natur.280..477S
+Method  = VLBI
+# ==========
+!!psr
+JName = J2022+5154
+BName = B2021+51
+PI = 0.5
+eplus = +0.07
+eminus = -0.07
+Refname = Brisken et al. (2002)
+RefURL  = http://adsabs.harvard.edu/abs/2002ApJ...571..906B
+Method  = VLBI (VLBA)
+PI = 0.95
+eplus = +0.37
+eminus = -0.37
+Refname = Campbell et al. (1996)
+RefURL  = http://adsabs.harvard.edu/abs/1996ApJ...461L..95C
+Method  = VLBI
+PI = 1.8
+eplus = +4.9
+eminus = -4.9
+Refname = Salter et al. (1979)
+RefURL  = http://adsabs.harvard.edu/abs/1979Natur.280..477S
+Method  = VLBI
+# ==========
+!!psr
+JName = J2048-1616
+BName = B2045-16
+PI = 1.05
+eplus = +0.03
+eminus = -0.02
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+PI = 1.71
+eplus = +0.91
+eminus = -0.91
+Refname = Deller et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...701.1243D
+Method  = VLBI (LBA)
+# ==========
+!!psr
+JName = J2055+3630
+BName = B2053+36
+PI = 0.17
+eplus = +0.03
+eminus = -0.03
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J2124-3358
+BName =
+PI = 3.1
+eplus = +0.55
+eminus = -0.55
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 4.0
+eplus = +2.0
+eminus = -2.0
+Refname = Hotan et al. (2006)
+RefURL  = http://adsabs.harvard.edu/abs/2006MNRAS.369.1502H
+Method  = Timing
+# ==========
+!!psr
+JName = J2129-5721
+BName =
+PI = 1.9
+eplus = +0.9
+eminus = -0.9
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+# ==========
+!!psr
+JName = J2144-3933
+BName =
+PI = 6.05
+eplus = +0.56
+eminus = -0.56
+Refname = Deller et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...701.1243D
+Method  = VLBI (LBA)
+# ==========
+!!psr
+JName = J2145-0750
+BName =
+PI = 1.6
+eplus = +0.25
+eminus = -0.25
+Refname = Verbiest et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009MNRAS.400..951V
+Method  = Timing
+PI = 2.0
+eplus = +0.6
+eminus = -0.6
+Refname = L&ouml;hmer et al. (2004)
+RefURL  = http://adsabs.harvard.edu/abs/2004A%26A...426..631L
+Method  = Timing
+# ==========
+!!psr
+JName = J2157+4017
+BName = B2154+40
+PI = 0.28
+eplus = +0.06
+eminus = -0.06
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J2214+3000
+BName = 
+PI = 1.7
+eplus = +0.9
+eminus = -0.9
+Refname = Guillemot et al. (2016)
+RefURL  = http://dx.doi.org/10.1051/0004-6361/201527847
+Method  = Timing
+# ==========
+!!psr
+JName = J2222-0137
+BName =
+PI = 3.742
+eplus = +0.013
+eminus = -0.016
+Refname = Deller et al. (2013)
+RefURL  = http://adsabs.harvard.edu/abs/2013ApJ...770..145D
+Method  = VLBI (VLBA)
+# ==========
+!!psr
+JName = J2313+4253
+BName = B2310+42
+PI = 0.93
+eplus = +0.06
+eminus = -0.07
+Refname = Chatterjee et al. (2009)
+RefURL  = http://adsabs.harvard.edu/abs/2009ApJ...698..250C
+Method  = VLBI (VLBA)
+# ==========
+# ========== List ends ==========
+# ==========
