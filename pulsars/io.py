@@ -7,8 +7,9 @@ import pdb
 
 import numpy as np
 
-
 from astropy.table import Table
+from astropy.coordinates import SkyCoord
+from astropy import units as u
 
 # These should be update from time to time
 DM_file = resource_filename('pulsars', 'data/atnf_cat/DM_cat_v1.56.dat')
@@ -24,6 +25,10 @@ def load_DM():
     """
     print("Loading up DMs from {}".format(DM_file))
     DMs = Table.read(DM_file, format='ascii')
+    # Fuss with coords a bit
+    coords = SkyCoord(ra=DMs['RAJ'], dec=DMs['DECJ'], unit=(u.hourangle, u.deg))
+    DMs['b'] = coords.galactic.b.value
+    DMs['l'] = coords.galactic.l.value
     # Return
     return DMs
 

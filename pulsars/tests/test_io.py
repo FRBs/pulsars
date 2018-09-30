@@ -5,7 +5,6 @@ from __future__ import print_function, absolute_import, division, unicode_litera
 
 import pytest
 import os
-import numpy as np
 
 from astropy.table import Table
 
@@ -18,6 +17,7 @@ def data_path(filename):
 def test_load_DMs():
     DMs = pio.load_DM()
     assert isinstance(DMs, Table)
+    assert 'b' in DMs.keys()
 
 def test_load_plx():
     plx = pio.load_parallax()
