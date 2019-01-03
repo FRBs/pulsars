@@ -40,7 +40,7 @@ def load_parallax():
         plx : Table
 
     """
-    print("Loading up Parallax data from {}".format(DM_file))
+    print("Loading up Parallax data from {}".format(Plx_file))
     plx = Table.read(Plx_file, format='ascii.fixed_width')
     # Return
     return plx
