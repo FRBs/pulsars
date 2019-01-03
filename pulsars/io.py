@@ -15,6 +15,7 @@ from astropy import units as u
 DM_file = resource_filename('pulsars', 'data/atnf_cat/DM_cat_v1.56.dat')
 Plx_file = resource_filename('pulsars', 'data/parallax/Plx_aug2018.dat')
 
+
 def load_DM():
     """
     Load up the latest set of DMs (in our Repo)
@@ -40,7 +41,7 @@ def load_parallax():
         plx : Table
 
     """
-    print("Loading up Parallax data from {}".format(DM_file))
+    print("Loading up Parallax data from {}".format(Plx_file))
     plx = Table.read(Plx_file, format='ascii.fixed_width')
     # Return
     return plx
